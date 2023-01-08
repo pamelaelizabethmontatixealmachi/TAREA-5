@@ -14,6 +14,23 @@ NOMBRE: PAMELA MONTATIXE
 
 TEMA: CAPÍTULOS 9 Y 10
 
+OBJETIVOS:
+
+Analizar y resolver ejercicios con métodos de resolución de ecuaciones simultáneas
+
+Aplicar el método de la corriente en ramas 
+
+Aplicar el análisis de lazos para analizar un circuito
+
+Aplicar el análisis de nodos
+
+Explicar los principios de un campo magnético y el electromagnetismo
+
+
+
+
+
+MARCO TEÓRICO
 
 ![1](https://user-images.githubusercontent.com/116780506/211182166-3b6e6da0-1394-4baf-b013-bc1e2a00d862.png)
 
@@ -176,6 +193,48 @@ Disminuye
 Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de flujo en gauss.
 
 ![image](https://user-images.githubusercontent.com/116780506/211220715-1eaf6acc-859f-4769-bc32-de4aab644039.png)
+
+![image](https://user-images.githubusercontent.com/116780506/211223878-8beb9978-b1bb-46c9-a164-bc09360fde4a.png)
+
+
+![image](https://user-images.githubusercontent.com/116780506/211223898-ff9eca73-d54b-4bfb-ae52-ffe3c68c4dcb.png)
+
+
+Se consigue cambiando la corriente
+
+![image](https://user-images.githubusercontent.com/116780506/211223910-141005d3-f3fa-49b9-b7d1-b4af4b7f53bc.png)
+
+
+MATERIAL A
+
+
+![image](https://user-images.githubusercontent.com/116780506/211223922-a6e8d848-e917-4e36-8490-35a64a3bc6a3.png)
+
+
+![image](https://user-images.githubusercontent.com/116780506/211223940-7462375f-6e27-437d-a800-4c7f1b25b51f.png)
+
+
+El propósito de estos elementos es conectar la espira al circuito externo
+
+![image](https://user-images.githubusercontent.com/116780506/211223959-0d8d574c-9829-4004-aa71-8d0fb4d2d339.png)
+
+
+VIDEO:
+
+
+CONCLUSIONES:
+
+Un circuito se puede analizar mediante varios procesos como el análisis de lazos, nodos y ramas
+
+En el método de corriente de ramas se aplican las leyes de Kirchhoff 
+
+El método de corrientes en lazos determina corrientes de lazo y no corrientes de rama
+
+
+
+
+
+
 
 
 
