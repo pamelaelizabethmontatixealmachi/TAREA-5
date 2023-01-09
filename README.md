@@ -221,6 +221,9 @@ El propósito de estos elementos es conectar la espira al circuito externo
 
 VIDEO:
 
+https://drive.google.com/file/d/19lpACqSrNWyzh4-B9holDQhocsQjo9FA/view?usp=sharing
+
+
 
 CONCLUSIONES:
 
@@ -232,7 +235,11 @@ El método de corrientes en lazos determina corrientes de lazo y no corrientes d
 
 
 
+BIBLIOGRAFÍA:
 
+
+
+Dorf, R., & Svoboda, J. (2015). Circuitos eléctricos. Alpha Editorial.
 
 
 
